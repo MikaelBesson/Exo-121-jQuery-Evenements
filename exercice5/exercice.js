@@ -1,3 +1,3 @@
-$("selector").method("event", function(){
+$("p").click("on", function(){
     $(this).hide();
 });
